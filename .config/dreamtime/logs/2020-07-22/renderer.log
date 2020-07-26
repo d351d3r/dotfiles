@@ -1,0 +1,1088 @@
+01:04:53 [INFO]  setup: Lift off!
+01:04:54 [INFO]  dreamtrack: Connecting to wss://track.dreamnet.tech...
+01:04:55 [INFO]  dreamtrack: Connected to the server.
+01:04:56 [DEBUG] dreamtrack: Remote settings received.
+01:04:56 [INFO]  requirements: {
+  power: { installed: false, compatible: false, checkpoints: false },
+  windows: { media: true },
+  recommended: { ram: true, vram: false }
+}
+01:04:56 [INFO]  rollbar: Ready to track errors.
+01:04:56 [DEBUG] rollbar: {
+  accessToken: 'e62c909ec771492fa7f371dc61eea092',
+  captureUncaught: false,
+  captureUnhandledRejections: false,
+  captureIp: 'anonymize',
+  enabled: true,
+  verbose: false,
+  logLevel: 'info',
+  nodeSourceMaps: true,
+  reportLevel: 'warning',
+  payload: {
+    environment: 'production',
+    person: { id: 'c67cd50a-0115-4de7-8472-8ddf9a726a02' },
+    server: { root: 'webpack:///' },
+    client: { javascript: [Object] }
+  }
+}
+01:04:56 [INFO]  updater:checkpoints: Current: v0.0.0 - Latest: 0.0.1
+01:04:56 [INFO]  updater:dreamtime: Current: v1.4.6 - Latest: v1.4.6
+01:04:56 [INFO]  updater:dreampower: Current: v0.0.0 - Latest: v1.2.5
+01:04:56 [INFO]  setup: The front-end is ready!
+01:04:56 [DEBUG] dreamtrack: Event: WELCOME
+01:09:00 [INFO]  setup: Lift off!
+01:09:00 [INFO]  dreamtrack: Connecting to wss://track.dreamnet.tech...
+01:09:01 [INFO]  dreamtrack: Connected to the server.
+01:09:02 [DEBUG] dreamtrack: Remote settings received.
+01:09:02 [INFO]  requirements: {
+  power: { installed: false, compatible: false, checkpoints: false },
+  windows: { media: true },
+  recommended: { ram: true, vram: false }
+}
+01:09:02 [INFO]  rollbar: Ready to track errors.
+01:09:02 [DEBUG] rollbar: {
+  accessToken: 'e62c909ec771492fa7f371dc61eea092',
+  captureUncaught: false,
+  captureUnhandledRejections: false,
+  captureIp: 'anonymize',
+  enabled: true,
+  verbose: false,
+  logLevel: 'info',
+  nodeSourceMaps: true,
+  reportLevel: 'warning',
+  payload: {
+    environment: 'production',
+    person: { id: 'eb93b797-2808-4b74-b1fa-a7f1404f7c1b' },
+    server: { root: 'webpack:///' },
+    client: { javascript: [Object] }
+  }
+}
+01:09:03 [INFO]  updater:checkpoints: Current: v0.0.0 - Latest: 0.0.1
+01:09:03 [INFO]  updater:dreampower: Current: v0.0.0 - Latest: v1.2.5
+01:09:03 [INFO]  updater:dreamtime: Current: v1.4.6 - Latest: v1.4.6
+01:09:03 [INFO]  setup: The front-end is ready!
+01:09:03 [DEBUG] dreamtrack: Event: WELCOME
+01:09:48 [INFO]  updater:dreampower: Downloading update from: https://downloads.dreamnet.tech/dreampower/v1.2.5/linux/cpuonly?direct=1&download=1
+01:13:07 [INFO]  setup: Lift off!
+01:13:08 [INFO]  dreamtrack: Connecting to wss://track.dreamnet.tech...
+01:13:09 [INFO]  dreamtrack: Connected to the server.
+01:13:09 [DEBUG] dreamtrack: Remote settings received.
+01:13:10 [INFO]  requirements: {
+  power: { installed: true, compatible: true, checkpoints: false },
+  windows: { media: true },
+  recommended: { ram: true, vram: false }
+}
+01:13:10 [INFO]  rollbar: Ready to track errors.
+01:13:10 [DEBUG] rollbar: {
+  accessToken: 'e62c909ec771492fa7f371dc61eea092',
+  captureUncaught: false,
+  captureUnhandledRejections: false,
+  captureIp: 'anonymize',
+  enabled: true,
+  verbose: false,
+  logLevel: 'info',
+  nodeSourceMaps: true,
+  reportLevel: 'warning',
+  payload: {
+    environment: 'production',
+    person: { id: 'eb93b797-2808-4b74-b1fa-a7f1404f7c1b' },
+    server: { root: 'webpack:///' },
+    client: { javascript: [Object] }
+  }
+}
+01:13:10 [INFO]  updater:checkpoints: Current: v0.0.0 - Latest: 0.0.1
+01:13:11 [INFO]  updater:dreamtime: Current: v1.4.6 - Latest: v1.4.6
+01:13:11 [INFO]  updater:dreampower: Current: v1.2.5 - Latest: v1.2.5
+01:13:11 [INFO]  setup: The front-end is ready!
+01:13:19 [INFO]  updater:checkpoints: Downloading update from: https://downloads.dreamnet.tech/checkpoints/v0.0.1?direct=1&download=1
+01:26:18 [INFO]  setup: Lift off!
+01:26:18 [INFO]  dreamtrack: Connecting to wss://track.dreamnet.tech...
+01:26:19 [INFO]  dreamtrack: Connected to the server.
+01:26:20 [DEBUG] dreamtrack: Remote settings received.
+01:26:20 [INFO]  requirements: {
+  power: { installed: true, compatible: true, checkpoints: true },
+  windows: { media: true },
+  recommended: { ram: true, vram: false }
+}
+01:26:20 [INFO]  rollbar: Ready to track errors.
+01:26:20 [DEBUG] rollbar: {
+  accessToken: 'e62c909ec771492fa7f371dc61eea092',
+  captureUncaught: false,
+  captureUnhandledRejections: false,
+  captureIp: 'anonymize',
+  enabled: true,
+  verbose: false,
+  logLevel: 'info',
+  nodeSourceMaps: true,
+  reportLevel: 'warning',
+  payload: {
+    environment: 'production',
+    person: { id: 'eb93b797-2808-4b74-b1fa-a7f1404f7c1b' },
+    server: { root: 'webpack:///' },
+    client: { javascript: [Object] }
+  }
+}
+01:26:20 [INFO]  setup: The front-end is ready!
+01:26:22 [INFO]  updater:checkpoints: Current: v0.0.1 - Latest: 0.0.1
+01:26:22 [INFO]  updater:dreamtime: Current: v1.4.6 - Latest: v1.4.6
+01:26:22 [INFO]  updater:dreampower: Current: v1.2.5 - Latest: v1.2.5
+01:28:22 [DEBUG] dreamtrack: Event: UPLOAD_URL
+01:28:23 [DEBUG] file: Downloading https://sun9-37.userapi.com/jjta4iBOb7KB9sWf4YExUM63G_NlBOKtUQ0w7A/cNuBHBo8tO0.jpg
+01:28:24 [DEBUG] file: Opened: /tmp/cNuBHBo8tO0.jpg (a295a59302313b1031bd88f4602f3f55)
+01:28:24 [DEBUG] file: Opened: /tmp/a295a59302313b1031bd88f4602f3f55-editor.jpg (does not exist)
+01:28:24 [DEBUG] file: Opened: /tmp/a295a59302313b1031bd88f4602f3f55-crop.jpg (does not exist)
+01:28:28 [DEBUG] queue: 📷 Photo added: cNuBHBo8tO0.jpg
+01:28:28 [DEBUG] queue: 🚗 Photo started: cNuBHBo8tO0.jpg
+01:28:28 [DEBUG] dreamtrack: Event: DREAM_START
+01:28:28 [DEBUG] cNuBHBo8tO0.jpg: 📷 Run added: #1
+01:28:29 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/c-nu-bh-bo-8-t-o-0-RUN1-1595431709070-dreamtime.jpg (does not exist)
+01:28:29 [DEBUG] file: Opened: /tmp/maskfin-c-nu-bh-bo-8-t-o-0-RUN1-1595431709095-dreamtime.jpg (does not exist)
+01:28:29 [DEBUG] cNuBHBo8tO0.jpg: 🚗 Run started: #1
+01:28:48 [DEBUG] file: Opened: /tmp/maskfin-c-nu-bh-bo-8-t-o-0-RUN1-1595431709095-dreamtime.jpg (does not exist)
+01:28:48 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/c-nu-bh-bo-8-t-o-0-RUN1-1595431709070-dreamtime.jpg (c11ef83ede927c052434902773e74a95)
+01:28:48 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:28:48 [DEBUG] cNuBHBo8tO0.jpg: 🏁 Run finished: #1
+01:28:48 [DEBUG] cNuBHBo8tO0.jpg: 🏁 Runs finished. 🏁
+01:28:48 [DEBUG] dreamtrack: Event: DREAM_END
+01:28:48 [DEBUG] queue: 🏁 Photo finished: cNuBHBo8tO0.jpg
+01:29:20 [DEBUG] cNuBHBo8tO0.jpg: 📷 Run added: #1
+01:29:21 [DEBUG] cNuBHBo8tO0.jpg: 🚗 Run started: #1
+01:29:41 [DEBUG] file: Opened: /tmp/maskfin-c-nu-bh-bo-8-t-o-0-RUN1-1595431709095-dreamtime.jpg (does not exist)
+01:29:41 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/c-nu-bh-bo-8-t-o-0-RUN1-1595431709070-dreamtime.jpg (bf1c4cc08de35b7c84a91a201f88fdad)
+01:29:41 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:29:41 [DEBUG] cNuBHBo8tO0.jpg: 🏁 Run finished: #1
+01:29:41 [DEBUG] cNuBHBo8tO0.jpg: 🏁 Runs finished. 🏁
+01:29:41 [DEBUG] dreamtrack: Event: DREAM_END
+01:29:46 [DEBUG] dreamtrack: Event: UPLOAD_URL
+01:29:46 [DEBUG] file: Downloading https://sun9-18.userapi.com/c846019/v846019206/d3ccf/UXzIXBxCx78.jpg
+01:29:47 [DEBUG] file: Opened: /tmp/UXzIXBxCx78.jpg (84ca1d8976a5a9262d1e1e254be0b0d0)
+01:29:47 [DEBUG] file: Opened: /tmp/84ca1d8976a5a9262d1e1e254be0b0d0-editor.jpg (does not exist)
+01:29:47 [DEBUG] file: Opened: /tmp/84ca1d8976a5a9262d1e1e254be0b0d0-crop.jpg (does not exist)
+01:29:49 [DEBUG] queue: 📷 Photo added: UXzIXBxCx78.jpg
+01:29:50 [DEBUG] queue: 🚗 Photo started: UXzIXBxCx78.jpg
+01:29:50 [DEBUG] dreamtrack: Event: DREAM_START
+01:29:50 [DEBUG] UXzIXBxCx78.jpg: 📷 Run added: #1
+01:29:50 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/u-xz-ix-bx-cx-78-RUN1-1595431790367-dreamtime.jpg (does not exist)
+01:29:50 [DEBUG] file: Opened: /tmp/maskfin-u-xz-ix-bx-cx-78-RUN1-1595431790323-dreamtime.jpg (does not exist)
+01:29:50 [DEBUG] UXzIXBxCx78.jpg: 🚗 Run started: #1
+01:30:10 [DEBUG] file: Opened: /tmp/maskfin-u-xz-ix-bx-cx-78-RUN1-1595431790323-dreamtime.jpg (does not exist)
+01:30:10 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/u-xz-ix-bx-cx-78-RUN1-1595431790367-dreamtime.jpg (7e67cc318ac8c741d9d09d6593d4ea6f)
+01:30:10 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:30:10 [DEBUG] UXzIXBxCx78.jpg: 🏁 Run finished: #1
+01:30:10 [DEBUG] UXzIXBxCx78.jpg: 🏁 Runs finished. 🏁
+01:30:10 [DEBUG] dreamtrack: Event: DREAM_END
+01:30:10 [DEBUG] queue: 🏁 Photo finished: UXzIXBxCx78.jpg
+01:31:23 [DEBUG] queue: 📷 Photo added: UXzIXBxCx78.jpg
+01:31:23 [DEBUG] queue: 🚗 Photo started: UXzIXBxCx78.jpg
+01:31:23 [DEBUG] dreamtrack: Event: DREAM_START
+01:31:23 [DEBUG] UXzIXBxCx78.jpg: 📷 Run added: #1
+01:31:23 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/u-xz-ix-bx-cx-78-RUN1-1595431883527-dreamtime.jpg (does not exist)
+01:31:23 [DEBUG] file: Opened: /tmp/maskfin-u-xz-ix-bx-cx-78-RUN1-1595431883548-dreamtime.jpg (does not exist)
+01:31:23 [DEBUG] UXzIXBxCx78.jpg: 🚗 Run started: #1
+01:31:43 [DEBUG] file: Opened: /tmp/maskfin-u-xz-ix-bx-cx-78-RUN1-1595431883548-dreamtime.jpg (does not exist)
+01:31:43 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/u-xz-ix-bx-cx-78-RUN1-1595431883527-dreamtime.jpg (7e67cc318ac8c741d9d09d6593d4ea6f)
+01:31:43 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:31:43 [DEBUG] UXzIXBxCx78.jpg: 🏁 Run finished: #1
+01:31:43 [DEBUG] UXzIXBxCx78.jpg: 🏁 Runs finished. 🏁
+01:31:43 [DEBUG] dreamtrack: Event: DREAM_END
+01:31:43 [DEBUG] dreamtrack: Event: DREAM_END
+01:31:43 [DEBUG] queue: 🏁 Photo finished: UXzIXBxCx78.jpg
+01:32:07 [DEBUG] dreamtrack: Event: UPLOAD_URL
+01:32:08 [DEBUG] file: Downloading https://www.instagram.com/p/CCN9QWFgUAX/
+01:32:09 [DEBUG] file: Opened: /tmp/CCN9QWFgUAX (7923a997c814ffe23dfb8c887c8138b7)
+01:32:09 [DEBUG] file: Opened: /tmp/7923a997c814ffe23dfb8c887c8138b7-editor (does not exist)
+01:32:09 [DEBUG] file: Opened: /tmp/7923a997c814ffe23dfb8c887c8138b7-crop (does not exist)
+01:32:09 [WARN]  dreamtime: Unable to download the photo, please verify that the address is correct and that you are connected to the Internet.
+01:32:09 [ERROR] dreamtime: Exception: LogEvent
+    at Cr.validate (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12479)
+    at Cr.setup (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12228)
+    at new Cr (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:11427)
+    at Object.add (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:15959)
+    at Object.addUrl (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:17050) {
+  name: 'LogEvent',
+  args: [
+    'Upload failed.',
+    'The file "/tmp/CCN9QWFgUAX" is not a valid photo. Only jpeg, png or gif.'
+  ]
+}
+01:36:59 [DEBUG] dreamtrack: Event: UPLOAD_INSTAGRAM
+01:37:00 [DEBUG] file: Downloading https://instagram.fuln9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/106473804_617131158930029_640533063735665577_n.jpg?_nc_ht=instagram.fuln9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=zLP7BaBogjsAX8niPLf&oh=958dbea54a0e3cc9157bc397c3a559d3&oe=5F41BDEE
+01:37:00 [DEBUG] file: Opened: /tmp/106473804_617131158930029_640533063735665577_n.jpg (a36b08bf5fc8e8200b2b900c8ad2f137)
+01:37:00 [DEBUG] file: Opened: /tmp/a36b08bf5fc8e8200b2b900c8ad2f137-editor.jpg (does not exist)
+01:37:00 [DEBUG] file: Opened: /tmp/a36b08bf5fc8e8200b2b900c8ad2f137-crop.jpg (does not exist)
+01:37:03 [DEBUG] queue: 📷 Photo added: 106473804_617131158930029_640533063735665577_n.jpg
+01:37:03 [DEBUG] queue: 🚗 Photo started: 106473804_617131158930029_640533063735665577_n.jpg
+01:37:03 [DEBUG] dreamtrack: Event: DREAM_START
+01:37:03 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 📷 Run added: #1
+01:37:03 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106473804-6171311589-RUN1-1595432224067-dreamtime.jpg (does not exist)
+01:37:03 [DEBUG] file: Opened: /tmp/maskfin-106473804-6171311589-RUN1-1595432224088-dreamtime.jpg (does not exist)
+01:37:04 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 🚗 Run started: #1
+01:37:04 [WARN]  106473804_617131158930029_640533063735665577_n.jpg: 💥 Run failed: #1 LogEvent
+01:37:04 [WARN]  dreamtime: DreamPower error: If you are using the algorithm source code please make sure you have cloned and configured the repository correctly, if you are not using the source code please disable the 'Use Python' option.
+01:37:04 [ERROR] dreamtime: Exception: Error: /usr/lib/python-exec/python3.7/python: can't open file 'main.py': [Errno 2] No such file or directory
+
+
+    at kr.getPowerError (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:8916)
+    at file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:8190
+    at CallbacksRegistry.apply (electron/js2c/renderer_init.js:2549:29)
+    at electron/js2c/renderer_init.js:1469:21
+    at EventEmitter.<anonymous> (electron/js2c/renderer_init.js:1449:7)
+    at EventEmitter.emit (events.js:210:5)
+    at Object.onMessage (electron/js2c/renderer_init.js:2204:16)
+01:37:04 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 🏁 Runs finished. 🏁
+01:37:04 [DEBUG] dreamtrack: Event: DREAM_END
+01:37:04 [DEBUG] queue: 🏁 Photo finished: 106473804_617131158930029_640533063735665577_n.jpg
+01:38:26 [WARN]  dreamtime: Please enter a valid Instagram photo.
+01:38:31 [DEBUG] dreamtrack: Event: UPLOAD_INSTAGRAM
+01:38:31 [DEBUG] file: Downloading https://instagram.fuln9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/106473804_617131158930029_640533063735665577_n.jpg?_nc_ht=instagram.fuln9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=zLP7BaBogjsAX8niPLf&oh=958dbea54a0e3cc9157bc397c3a559d3&oe=5F41BDEE
+01:38:32 [DEBUG] file: Opened: /tmp/106473804_617131158930029_640533063735665577_n.jpg (a36b08bf5fc8e8200b2b900c8ad2f137)
+01:38:32 [DEBUG] file: Opened: /tmp/a36b08bf5fc8e8200b2b900c8ad2f137-editor.jpg (does not exist)
+01:38:32 [DEBUG] file: Opened: /tmp/a36b08bf5fc8e8200b2b900c8ad2f137-crop.jpg (does not exist)
+01:38:56 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 📷 Run added: #1
+01:38:56 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 🚗 Run started: #1
+01:39:12 [DEBUG] file: Opened: /tmp/maskfin-106473804-6171311589-RUN1-1595432224088-dreamtime.jpg (does not exist)
+01:39:12 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106473804-6171311589-RUN1-1595432224067-dreamtime.jpg (19da6e3e80b381cbfb9b3a1aa2cf353d)
+01:39:12 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:39:12 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 🏁 Run finished: #1
+01:39:12 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 🏁 Runs finished. 🏁
+01:39:12 [DEBUG] dreamtrack: Event: DREAM_END
+01:40:08 [DEBUG] dreamtrack: Event: UPLOAD_INSTAGRAM
+01:40:09 [DEBUG] file: Downloading https://instagram.fuln9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/106473804_617131158930029_640533063735665577_n.jpg?_nc_ht=instagram.fuln9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=zLP7BaBogjsAX8niPLf&oh=958dbea54a0e3cc9157bc397c3a559d3&oe=5F41BDEE
+01:40:09 [DEBUG] file: Opened: /tmp/106473804_617131158930029_640533063735665577_n.jpg (a36b08bf5fc8e8200b2b900c8ad2f137)
+01:40:09 [DEBUG] file: Opened: /tmp/a36b08bf5fc8e8200b2b900c8ad2f137-editor.jpg (does not exist)
+01:40:09 [DEBUG] file: Opened: /tmp/a36b08bf5fc8e8200b2b900c8ad2f137-crop.jpg (does not exist)
+01:43:10 [DEBUG] queue: 📷 Photo added: 106473804_617131158930029_640533063735665577_n.jpg
+01:43:10 [DEBUG] queue: 🚗 Photo started: 106473804_617131158930029_640533063735665577_n.jpg
+01:43:10 [DEBUG] file: Opened: /tmp/a36b08bf5fc8e8200b2b900c8ad2f137-editor.jpg (db1663d86bdaf377c69cf14eb50fb725)
+01:43:10 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: Saved editor changes.
+01:43:10 [DEBUG] dreamtrack: Event: DREAM_START
+01:43:10 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+01:43:10 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 📷 Run added: #1
+01:43:10 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106473804-6171311589-RUN1-1595432590657-dreamtime.jpg (does not exist)
+01:43:10 [DEBUG] file: Opened: /tmp/maskfin-106473804-6171311589-RUN1-1595432590624-dreamtime.jpg (does not exist)
+01:43:10 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 🚗 Run started: #1
+01:43:26 [DEBUG] file: Opened: /tmp/maskfin-106473804-6171311589-RUN1-1595432590624-dreamtime.jpg (does not exist)
+01:43:26 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106473804-6171311589-RUN1-1595432590657-dreamtime.jpg (6d23adc87d6895ae7a7acc0cf62eabf5)
+01:43:26 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:43:26 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 🏁 Run finished: #1
+01:43:26 [DEBUG] 106473804_617131158930029_640533063735665577_n.jpg: 🏁 Runs finished. 🏁
+01:43:26 [DEBUG] dreamtrack: Event: DREAM_END
+01:43:26 [DEBUG] dreamtrack: Event: DREAM_END
+01:43:26 [DEBUG] queue: 🏁 Photo finished: 106473804_617131158930029_640533063735665577_n.jpg
+01:47:58 [DEBUG] dreamtrack: Event: UPLOAD_INSTAGRAM
+01:47:58 [DEBUG] file: Downloading https://instagram.fuln9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/106557503_294692674990565_1698249332139387700_n.jpg?_nc_ht=instagram.fuln9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Srv0gNTgVFwAX96KwKh&oh=84997e3fee8288be6f018ca263559b9c&oe=5F40F06A
+01:47:59 [DEBUG] file: Opened: /tmp/106557503_294692674990565_1698249332139387700_n.jpg (4eb6038c4cd8b3edb70f2939cc508b79)
+01:47:59 [DEBUG] file: Opened: /tmp/4eb6038c4cd8b3edb70f2939cc508b79-editor.jpg (does not exist)
+01:47:59 [DEBUG] file: Opened: /tmp/4eb6038c4cd8b3edb70f2939cc508b79-crop.jpg (does not exist)
+01:48:02 [DEBUG] queue: 📷 Photo added: 106557503_294692674990565_1698249332139387700_n.jpg
+01:48:02 [DEBUG] queue: 🚗 Photo started: 106557503_294692674990565_1698249332139387700_n.jpg
+01:48:02 [DEBUG] dreamtrack: Event: DREAM_START
+01:48:02 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+01:48:02 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 📷 Run added: #1
+01:48:02 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 📷 Run added: #2
+01:48:02 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 📷 Run added: #3
+01:48:02 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 📷 Run added: #4
+01:48:02 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 📷 Run added: #5
+01:48:02 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN1-1595432882711-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN1-1595432882660-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN2-1595432882657-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN2-1595432882737-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN3-1595432882726-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN3-1595432882755-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN4-1595432882760-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN4-1595432882733-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN5-1595432882716-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN5-1595432882671-dreamtime.jpg (does not exist)
+01:48:02 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🚗 Run started: #1
+01:48:18 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN1-1595432882660-dreamtime.jpg (does not exist)
+01:48:18 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN1-1595432882711-dreamtime.jpg (e729c42efdd735028dd368c8d78578ce)
+01:48:18 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:48:18 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Run finished: #1
+01:48:19 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🚗 Run started: #2
+01:48:40 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN2-1595432882737-dreamtime.jpg (does not exist)
+01:48:40 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN2-1595432882657-dreamtime.jpg (e729c42efdd735028dd368c8d78578ce)
+01:48:40 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:48:40 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Run finished: #2
+01:48:41 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🚗 Run started: #3
+01:49:02 [DEBUG] dreamtrack: Event: UPLOAD_INSTAGRAM
+01:49:03 [DEBUG] file: Downloading https://instagram.fuln9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/103840795_709639433153940_7315740990616618559_n.jpg?_nc_ht=instagram.fuln9-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Izzg6B8ymroAX-filhc&oh=d19169d783501e7a9819eb1453f0c869&oe=5F428B10
+01:49:03 [DEBUG] file: Opened: /tmp/103840795_709639433153940_7315740990616618559_n.jpg (867040a29d74bdd8767b906dec406b2d)
+01:49:03 [DEBUG] file: Opened: /tmp/867040a29d74bdd8767b906dec406b2d-editor.jpg (does not exist)
+01:49:03 [DEBUG] file: Opened: /tmp/867040a29d74bdd8767b906dec406b2d-crop.jpg (does not exist)
+01:49:04 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN3-1595432882755-dreamtime.jpg (does not exist)
+01:49:04 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN3-1595432882726-dreamtime.jpg (e729c42efdd735028dd368c8d78578ce)
+01:49:04 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:49:04 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Run finished: #3
+01:49:04 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🚗 Run started: #4
+01:49:26 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN4-1595432882733-dreamtime.jpg (does not exist)
+01:49:26 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN4-1595432882760-dreamtime.jpg (e729c42efdd735028dd368c8d78578ce)
+01:49:26 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:49:26 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Run finished: #4
+01:49:26 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🚗 Run started: #5
+01:49:29 [DEBUG] queue: 📷 Photo added: 103840795_709639433153940_7315740990616618559_n.jpg
+01:49:48 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN5-1595432882671-dreamtime.jpg (does not exist)
+01:49:48 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN5-1595432882716-dreamtime.jpg (e729c42efdd735028dd368c8d78578ce)
+01:49:48 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:49:48 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Run finished: #5
+01:49:48 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Runs finished. 🏁
+01:49:48 [DEBUG] dreamtrack: Event: DREAM_END
+01:49:48 [DEBUG] queue: 🏁 Photo finished: 106557503_294692674990565_1698249332139387700_n.jpg
+01:49:49 [DEBUG] queue: 🚗 Photo started: 103840795_709639433153940_7315740990616618559_n.jpg
+01:49:49 [DEBUG] dreamtrack: Event: DREAM_START
+01:49:49 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+01:49:49 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #1
+01:49:49 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #2
+01:49:49 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #3
+01:49:49 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #4
+01:49:49 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #5
+01:49:49 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN1-1595432989203-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN1-1595432989204-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN2-1595432989155-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN2-1595432989183-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN3-1595432989213-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN3-1595432989133-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN4-1595432989221-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN4-1595432989182-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN5-1595432989166-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN5-1595432989170-dreamtime.jpg (does not exist)
+01:49:49 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #1
+01:50:10 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN1-1595432989204-dreamtime.jpg (does not exist)
+01:50:10 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN1-1595432989203-dreamtime.jpg (4a28c6d4c2e09cc4d68aa0524cd7ba76)
+01:50:10 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:50:10 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #1
+01:50:10 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #2
+01:50:33 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN2-1595432989183-dreamtime.jpg (does not exist)
+01:50:33 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN2-1595432989155-dreamtime.jpg (4a28c6d4c2e09cc4d68aa0524cd7ba76)
+01:50:33 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:50:33 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #2
+01:50:33 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #3
+01:50:54 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN3-1595432989133-dreamtime.jpg (does not exist)
+01:50:54 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN3-1595432989213-dreamtime.jpg (f4b8ae27f5b787ee11bb5fb26f98ef1c)
+01:50:54 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:50:54 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #3
+01:50:54 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #4
+01:51:14 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN4-1595432989182-dreamtime.jpg (does not exist)
+01:51:14 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN4-1595432989221-dreamtime.jpg (4a28c6d4c2e09cc4d68aa0524cd7ba76)
+01:51:14 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:51:14 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #4
+01:51:15 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #5
+01:51:36 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN5-1595432989170-dreamtime.jpg (does not exist)
+01:51:36 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN5-1595432989166-dreamtime.jpg (4a28c6d4c2e09cc4d68aa0524cd7ba76)
+01:51:36 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:51:36 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #5
+01:51:36 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Runs finished. 🏁
+01:51:36 [DEBUG] dreamtrack: Event: DREAM_END
+01:51:36 [DEBUG] queue: 🏁 Photo finished: 103840795_709639433153940_7315740990616618559_n.jpg
+01:52:08 [DEBUG] queue: 📷 Photo added: 103840795_709639433153940_7315740990616618559_n.jpg
+01:52:08 [DEBUG] queue: 🚗 Photo started: 103840795_709639433153940_7315740990616618559_n.jpg
+01:52:08 [DEBUG] dreamtrack: Event: DREAM_START
+01:52:08 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+01:52:08 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #1
+01:52:08 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #2
+01:52:08 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #3
+01:52:08 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #4
+01:52:08 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 📷 Run added: #5
+01:52:08 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN1-1595433128433-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN1-1595433128416-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN2-1595433128419-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN2-1595433128415-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN3-1595433128409-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN3-1595433128479-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN4-1595433128438-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN4-1595433128502-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN5-1595433128488-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN5-1595433128441-dreamtime.jpg (does not exist)
+01:52:08 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #1
+01:52:26 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN1-1595433128416-dreamtime.jpg (does not exist)
+01:52:26 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN1-1595433128433-dreamtime.jpg (4a28c6d4c2e09cc4d68aa0524cd7ba76)
+01:52:26 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:52:26 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #1
+01:52:26 [DEBUG] dreamtrack: Event: BADTIME
+01:52:26 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #2
+01:52:50 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN2-1595433128415-dreamtime.jpg (does not exist)
+01:52:50 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN2-1595433128419-dreamtime.jpg (4a28c6d4c2e09cc4d68aa0524cd7ba76)
+01:52:50 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:52:50 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #2
+01:52:50 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #3
+01:53:12 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN3-1595433128479-dreamtime.jpg (does not exist)
+01:53:12 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN3-1595433128409-dreamtime.jpg (e6fab7dff1d23e84a9747e7e7d8bf55e)
+01:53:12 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:53:12 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #3
+01:53:13 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #4
+01:53:35 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN4-1595433128502-dreamtime.jpg (does not exist)
+01:53:35 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN4-1595433128438-dreamtime.jpg (f4b8ae27f5b787ee11bb5fb26f98ef1c)
+01:53:35 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:53:35 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #4
+01:53:35 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🚗 Run started: #5
+01:53:55 [DEBUG] file: Opened: /tmp/maskfin-103840795-7096394331-RUN5-1595433128441-dreamtime.jpg (does not exist)
+01:53:55 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/103840795-7096394331-RUN5-1595433128488-dreamtime.jpg (e6fab7dff1d23e84a9747e7e7d8bf55e)
+01:53:55 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:53:55 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Run finished: #5
+01:53:55 [DEBUG] 103840795_709639433153940_7315740990616618559_n.jpg: 🏁 Runs finished. 🏁
+01:53:55 [DEBUG] dreamtrack: Event: DREAM_END
+01:53:55 [DEBUG] dreamtrack: Event: DREAM_END
+01:53:55 [DEBUG] queue: 🏁 Photo finished: 103840795_709639433153940_7315740990616618559_n.jpg
+01:55:02 [DEBUG] dreamtrack: Event: UPLOAD_INSTAGRAM
+01:55:02 [DEBUG] file: Downloading https://instagram.fuln9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/94684770_2840690782646596_3523910071712473688_n.jpg?_nc_ht=instagram.fuln9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=l1eL5SnoljYAX9lDVzP&oh=01ffa3ac2e806fc34db2507bab093c5d&oe=5F4325E0
+01:55:03 [DEBUG] file: Opened: /tmp/94684770_2840690782646596_3523910071712473688_n.jpg (3b41c2e9c2db54deb462aaf1fa27f884)
+01:55:03 [DEBUG] file: Opened: /tmp/3b41c2e9c2db54deb462aaf1fa27f884-editor.jpg (does not exist)
+01:55:03 [DEBUG] file: Opened: /tmp/3b41c2e9c2db54deb462aaf1fa27f884-crop.jpg (does not exist)
+01:55:04 [DEBUG] queue: 📷 Photo added: 94684770_2840690782646596_3523910071712473688_n.jpg
+01:55:04 [DEBUG] queue: 🚗 Photo started: 94684770_2840690782646596_3523910071712473688_n.jpg
+01:55:04 [DEBUG] dreamtrack: Event: DREAM_START
+01:55:04 [DEBUG] dreamtrack: Event: DREAM_IMPORT_MASKFIN
+01:55:04 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+01:55:04 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+01:55:04 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 📷 Run added: #1
+01:55:04 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 📷 Run added: #2
+01:55:04 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 📷 Run added: #3
+01:55:04 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 📷 Run added: #4
+01:55:04 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 📷 Run added: #5
+01:55:04 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN1-1595433304954-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN1-1595433304943-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN2-1595433304915-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN2-1595433304979-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN3-1595433304885-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN3-1595433304960-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN4-1595433304907-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN4-1595433304912-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN5-1595433304930-dreamtime.jpg (does not exist)
+01:55:04 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN5-1595433304979-dreamtime.jpg (does not exist)
+01:55:05 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🚗 Run started: #1
+01:55:22 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN1-1595433304943-dreamtime.jpg (does not exist)
+01:55:22 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN1-1595433304954-dreamtime.jpg (de13cb98a37e34d35865fd585fd706f2)
+01:55:22 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:55:22 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🏁 Run finished: #1
+01:55:22 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🚗 Run started: #2
+01:55:44 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN2-1595433304979-dreamtime.jpg (does not exist)
+01:55:44 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN2-1595433304915-dreamtime.jpg (de13cb98a37e34d35865fd585fd706f2)
+01:55:44 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:55:44 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🏁 Run finished: #2
+01:55:45 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🚗 Run started: #3
+01:56:08 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN3-1595433304960-dreamtime.jpg (does not exist)
+01:56:08 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN3-1595433304885-dreamtime.jpg (de13cb98a37e34d35865fd585fd706f2)
+01:56:08 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:56:08 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🏁 Run finished: #3
+01:56:08 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🚗 Run started: #4
+01:56:30 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN4-1595433304912-dreamtime.jpg (does not exist)
+01:56:30 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN4-1595433304907-dreamtime.jpg (de13cb98a37e34d35865fd585fd706f2)
+01:56:30 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:56:30 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🏁 Run finished: #4
+01:56:30 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🚗 Run started: #5
+01:56:53 [DEBUG] file: Opened: /tmp/maskfin-94684770-28406907826-RUN5-1595433304979-dreamtime.jpg (does not exist)
+01:56:53 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/94684770-28406907826-RUN5-1595433304930-dreamtime.jpg (de13cb98a37e34d35865fd585fd706f2)
+01:56:53 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+01:56:53 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🏁 Run finished: #5
+01:56:53 [DEBUG] 94684770_2840690782646596_3523910071712473688_n.jpg: 🏁 Runs finished. 🏁
+01:56:53 [DEBUG] dreamtrack: Event: DREAM_END
+01:56:53 [DEBUG] queue: 🏁 Photo finished: 94684770_2840690782646596_3523910071712473688_n.jpg
+02:08:31 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:08:32 [DEBUG] file: Downloading https://sun5-4.userapi.com/c855720/v855720289/17d74f/3kmzzRh2T2E.jpg
+02:08:32 [DEBUG] file: Opened: /tmp/3kmzzRh2T2E.jpg (5339d21f50d3d96055296c94cb84fdf3)
+02:08:32 [DEBUG] file: Opened: /tmp/5339d21f50d3d96055296c94cb84fdf3-editor.jpg (does not exist)
+02:08:32 [DEBUG] file: Opened: /tmp/5339d21f50d3d96055296c94cb84fdf3-crop.jpg (does not exist)
+02:08:33 [DEBUG] queue: 📷 Photo added: 3kmzzRh2T2E.jpg
+02:08:34 [DEBUG] queue: 🚗 Photo started: 3kmzzRh2T2E.jpg
+02:08:34 [DEBUG] dreamtrack: Event: DREAM_START
+02:08:34 [DEBUG] dreamtrack: Event: DREAM_IMPORT_MASKFIN
+02:08:34 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:08:34 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+02:08:34 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #1
+02:08:34 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #2
+02:08:34 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #3
+02:08:34 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #4
+02:08:34 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #5
+02:08:34 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595434114379-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595434114354-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN2-1595434114334-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN2-1595434114328-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN3-1595434114312-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN3-1595434114302-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN4-1595434114350-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN4-1595434114382-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN5-1595434114324-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN5-1595434114339-dreamtime.jpg (does not exist)
+02:08:34 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #1
+02:08:43 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595434114354-dreamtime.jpg (does not exist)
+02:08:43 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595434114379-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:08:43 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:08:43 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #1
+02:08:43 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #2
+02:08:54 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN2-1595434114328-dreamtime.jpg (does not exist)
+02:08:54 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN2-1595434114334-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:08:54 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:08:54 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #2
+02:08:55 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #3
+02:09:06 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN3-1595434114302-dreamtime.jpg (does not exist)
+02:09:06 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN3-1595434114312-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:09:06 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:09:06 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #3
+02:09:07 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #4
+02:09:18 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN4-1595434114382-dreamtime.jpg (does not exist)
+02:09:18 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN4-1595434114350-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:09:18 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:09:18 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #4
+02:09:19 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #5
+02:09:32 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN5-1595434114339-dreamtime.jpg (does not exist)
+02:09:32 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN5-1595434114324-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:09:32 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:09:32 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #5
+02:09:32 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Runs finished. 🏁
+02:09:32 [DEBUG] dreamtrack: Event: DREAM_END
+02:09:32 [DEBUG] queue: 🏁 Photo finished: 3kmzzRh2T2E.jpg
+02:10:20 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #1
+02:10:20 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #1
+02:10:29 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595434114354-dreamtime.jpg (does not exist)
+02:10:29 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595434114379-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:10:29 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:10:29 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #1
+02:10:29 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Runs finished. 🏁
+02:10:29 [DEBUG] dreamtrack: Event: DREAM_END
+02:11:54 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #1
+02:11:54 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #1
+02:12:03 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595434114354-dreamtime.jpg (does not exist)
+02:12:03 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595434114379-dreamtime.jpg (5cfc1193ba3de90dabffaf569fe1bfcb)
+02:12:03 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:12:03 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #1
+02:12:03 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Runs finished. 🏁
+02:12:03 [DEBUG] dreamtrack: Event: DREAM_END
+02:14:06 [DEBUG] queue: 📷 Photo added: 3kmzzRh2T2E.jpg
+02:14:06 [DEBUG] queue: 🚗 Photo started: 3kmzzRh2T2E.jpg
+02:14:06 [DEBUG] dreamtrack: Event: DREAM_START
+02:14:06 [DEBUG] dreamtrack: Event: DREAM_IMPORT_MASKFIN
+02:14:06 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+02:14:06 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #1
+02:14:06 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #2
+02:14:06 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #3
+02:14:06 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #4
+02:14:06 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #5
+02:14:06 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595434446842-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595434446870-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN2-1595434446864-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN2-1595434446831-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN3-1595434446820-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN3-1595434446895-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN4-1595434446842-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN4-1595434446840-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN5-1595434446873-dreamtime.jpg (does not exist)
+02:14:06 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN5-1595434446811-dreamtime.jpg (does not exist)
+02:14:07 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #1
+02:14:16 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595434446870-dreamtime.jpg (does not exist)
+02:14:16 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595434446842-dreamtime.jpg (5cfc1193ba3de90dabffaf569fe1bfcb)
+02:14:16 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:14:16 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #1
+02:14:16 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #2
+02:14:29 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN2-1595434446831-dreamtime.jpg (does not exist)
+02:14:29 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN2-1595434446864-dreamtime.jpg (5cfc1193ba3de90dabffaf569fe1bfcb)
+02:14:29 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:14:29 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #2
+02:14:29 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #3
+02:14:41 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN3-1595434446895-dreamtime.jpg (does not exist)
+02:14:41 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN3-1595434446820-dreamtime.jpg (5cfc1193ba3de90dabffaf569fe1bfcb)
+02:14:41 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:14:41 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #3
+02:14:41 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #4
+02:14:53 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN4-1595434446840-dreamtime.jpg (does not exist)
+02:14:53 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN4-1595434446842-dreamtime.jpg (5cfc1193ba3de90dabffaf569fe1bfcb)
+02:14:53 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:14:53 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #4
+02:14:53 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #5
+02:15:04 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN5-1595434446811-dreamtime.jpg (does not exist)
+02:15:04 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN5-1595434446873-dreamtime.jpg (5cfc1193ba3de90dabffaf569fe1bfcb)
+02:15:04 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:15:04 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #5
+02:15:04 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Runs finished. 🏁
+02:15:04 [DEBUG] dreamtrack: Event: DREAM_END
+02:15:04 [DEBUG] dreamtrack: Event: DREAM_END
+02:15:04 [DEBUG] queue: 🏁 Photo finished: 3kmzzRh2T2E.jpg
+02:15:11 [DEBUG] queue: 📷 Photo added: 3kmzzRh2T2E.jpg
+02:15:12 [DEBUG] queue: 🚗 Photo started: 3kmzzRh2T2E.jpg
+02:15:12 [DEBUG] dreamtrack: Event: DREAM_START
+02:15:12 [DEBUG] dreamtrack: Event: DREAM_IMPORT_MASKFIN
+02:15:12 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:15:12 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+02:15:12 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #1
+02:15:12 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #2
+02:15:12 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #3
+02:15:12 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #4
+02:15:12 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #5
+02:15:12 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595434512357-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595434512327-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN2-1595434512348-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN2-1595434512368-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN3-1595434512390-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN3-1595434512361-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN4-1595434512332-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN4-1595434512414-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN5-1595434512337-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN5-1595434512332-dreamtime.jpg (does not exist)
+02:15:12 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #1
+02:15:25 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595434512327-dreamtime.jpg (does not exist)
+02:15:25 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595434512357-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:15:25 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:15:25 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #1
+02:15:25 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #2
+02:15:38 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN2-1595434512368-dreamtime.jpg (does not exist)
+02:15:38 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN2-1595434512348-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:15:38 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:15:38 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #2
+02:15:38 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #3
+02:15:51 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN3-1595434512361-dreamtime.jpg (does not exist)
+02:15:51 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN3-1595434512390-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:15:51 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:15:51 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #3
+02:15:51 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #4
+02:16:04 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN4-1595434512414-dreamtime.jpg (does not exist)
+02:16:04 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN4-1595434512332-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:16:04 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:16:04 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #4
+02:16:04 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #5
+02:16:17 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN5-1595434512332-dreamtime.jpg (does not exist)
+02:16:17 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN5-1595434512337-dreamtime.jpg (3684511e8281d225c488623dd1bd2bff)
+02:16:17 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:16:17 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #5
+02:16:17 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Runs finished. 🏁
+02:16:17 [DEBUG] dreamtrack: Event: DREAM_END
+02:16:17 [DEBUG] dreamtrack: Event: DREAM_END
+02:16:17 [DEBUG] dreamtrack: Event: DREAM_END
+02:16:17 [DEBUG] queue: 🏁 Photo finished: 3kmzzRh2T2E.jpg
+02:17:37 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:17:37 [DEBUG] file: Downloading https://sun4-17.userapi.com/9mJ8afCKJeIVfxoHNYlO6IxUY9gsQRdhmvb1OQ/2vqugUJjedM.jpg
+02:17:38 [DEBUG] file: Opened: /tmp/2vqugUJjedM.jpg (8c7a1cafa51a63f0954a8e8fceed5c4f)
+02:17:38 [DEBUG] file: Opened: /tmp/8c7a1cafa51a63f0954a8e8fceed5c4f-editor.jpg (does not exist)
+02:17:38 [DEBUG] file: Opened: /tmp/8c7a1cafa51a63f0954a8e8fceed5c4f-crop.jpg (does not exist)
+02:17:41 [DEBUG] queue: 📷 Photo added: 2vqugUJjedM.jpg
+02:17:41 [DEBUG] queue: 🚗 Photo started: 2vqugUJjedM.jpg
+02:17:41 [DEBUG] dreamtrack: Event: DREAM_START
+02:17:41 [DEBUG] dreamtrack: Event: DREAM_IMPORT_MASKFIN
+02:17:41 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:17:41 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+02:17:41 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #1
+02:17:41 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #2
+02:17:41 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #3
+02:17:41 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #4
+02:17:41 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #5
+02:17:41 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN1-1595434661395-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN1-1595434661437-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN2-1595434661432-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN2-1595434661417-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN3-1595434661379-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN3-1595434661444-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN4-1595434661382-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN4-1595434661429-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN5-1595434661420-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN5-1595434661386-dreamtime.jpg (does not exist)
+02:17:41 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #1
+02:17:54 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN1-1595434661437-dreamtime.jpg (does not exist)
+02:17:54 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN1-1595434661395-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:17:54 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:17:54 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #1
+02:17:55 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #2
+02:18:12 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN2-1595434661417-dreamtime.jpg (does not exist)
+02:18:12 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN2-1595434661432-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:18:12 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:18:12 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #2
+02:18:13 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #3
+02:18:32 [DEBUG] dreamtrack: Event: CLICK_LINK
+02:18:33 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN3-1595434661444-dreamtime.jpg (does not exist)
+02:18:33 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN3-1595434661379-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:18:33 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:18:33 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #3
+02:18:34 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #4
+02:18:52 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN4-1595434661429-dreamtime.jpg (does not exist)
+02:18:52 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN4-1595434661382-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:18:52 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:18:52 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #4
+02:18:52 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #5
+02:19:01 [DEBUG] dreamtrack: Event: CLICK_LINK
+02:19:02 [DEBUG] dreamtrack: Event: CLICK_LINK
+02:19:03 [DEBUG] dreamtrack: Event: CLICK_LINK
+02:19:04 [DEBUG] dreamtrack: Event: CLICK_LINK
+02:19:04 [DEBUG] dreamtrack: Event: CLICK_LINK
+02:19:04 [DEBUG] dreamtrack: Event: CLICK_LINK
+02:19:17 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN5-1595434661386-dreamtime.jpg (does not exist)
+02:19:17 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN5-1595434661420-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:19:17 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:19:17 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #5
+02:19:17 [DEBUG] 2vqugUJjedM.jpg: 🏁 Runs finished. 🏁
+02:19:17 [DEBUG] dreamtrack: Event: DREAM_END
+02:19:17 [DEBUG] queue: 🏁 Photo finished: 2vqugUJjedM.jpg
+02:19:31 [DEBUG] queue: 📷 Photo added: 2vqugUJjedM.jpg
+02:19:31 [DEBUG] queue: 🚗 Photo started: 2vqugUJjedM.jpg
+02:19:31 [DEBUG] dreamtrack: Event: DREAM_START
+02:19:31 [DEBUG] dreamtrack: Event: DREAM_IMPORT_MASKFIN
+02:19:31 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:19:31 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+02:19:31 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #1
+02:19:31 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #2
+02:19:31 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #3
+02:19:31 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #4
+02:19:31 [DEBUG] 2vqugUJjedM.jpg: 📷 Run added: #5
+02:19:31 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN1-1595434771693-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN1-1595434771627-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN2-1595434771725-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN2-1595434771636-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN3-1595434771645-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN3-1595434771685-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN4-1595434771674-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN4-1595434771662-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN5-1595434771724-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN5-1595434771657-dreamtime.jpg (does not exist)
+02:19:31 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #1
+02:19:58 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN1-1595434771627-dreamtime.jpg (does not exist)
+02:19:58 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN1-1595434771693-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:19:58 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:19:59 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #1
+02:19:59 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #2
+02:20:21 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN2-1595434771636-dreamtime.jpg (does not exist)
+02:20:21 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN2-1595434771725-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:20:21 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:20:21 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #2
+02:20:21 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #3
+02:20:44 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN3-1595434771685-dreamtime.jpg (does not exist)
+02:20:44 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN3-1595434771645-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:20:44 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:20:44 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #3
+02:20:45 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #4
+02:21:05 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN4-1595434771662-dreamtime.jpg (does not exist)
+02:21:05 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN4-1595434771674-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:21:05 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:21:05 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #4
+02:21:06 [DEBUG] 2vqugUJjedM.jpg: 🚗 Run started: #5
+02:21:32 [DEBUG] file: Opened: /tmp/maskfin-2-vqug-u-jjed-m-RUN5-1595434771657-dreamtime.jpg (does not exist)
+02:21:32 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/2-vqug-u-jjed-m-RUN5-1595434771724-dreamtime.jpg (268cf5e062be29836c647c3dcc70174c)
+02:21:32 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:21:32 [DEBUG] 2vqugUJjedM.jpg: 🏁 Run finished: #5
+02:21:32 [DEBUG] 2vqugUJjedM.jpg: 🏁 Runs finished. 🏁
+02:21:32 [DEBUG] dreamtrack: Event: DREAM_END
+02:21:32 [DEBUG] dreamtrack: Event: DREAM_END
+02:21:32 [DEBUG] queue: 🏁 Photo finished: 2vqugUJjedM.jpg
+02:22:09 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:22:09 [DEBUG] file: Downloading https://sun9-8.userapi.com/c854016/v854016540/d6b41/LgKja-lfONo.jpg
+02:22:10 [DEBUG] file: Opened: /tmp/LgKja-lfONo.jpg (0a472c62408f4fbb4cfb153a85e0b33c)
+02:22:10 [DEBUG] queue: 📷 Photo added: LgKja-lfONo.jpg
+02:22:10 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-editor.jpg (does not exist)
+02:22:10 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-crop.jpg (does not exist)
+02:22:11 [DEBUG] queue: 🚗 Photo started: LgKja-lfONo.jpg
+02:22:11 [DEBUG] dreamtrack: Event: DREAM_START
+02:22:11 [DEBUG] dreamtrack: Event: DREAM_IMPORT_MASKFIN
+02:22:11 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:22:11 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+02:22:11 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #1
+02:22:11 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #2
+02:22:11 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #3
+02:22:11 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #4
+02:22:11 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #5
+02:22:11 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595434931086-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595434931142-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN2-1595434931085-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN2-1595434931080-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN3-1595434931113-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN3-1595434931057-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN4-1595434931130-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN4-1595434931140-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN5-1595434931144-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN5-1595434931106-dreamtime.jpg (does not exist)
+02:22:11 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #1
+02:22:28 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595434931142-dreamtime.jpg (does not exist)
+02:22:28 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595434931086-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:22:28 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:22:28 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #1
+02:22:29 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #2
+02:22:52 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN2-1595434931080-dreamtime.jpg (does not exist)
+02:22:52 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN2-1595434931085-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:22:52 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:22:52 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #2
+02:22:52 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #3
+02:23:15 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN3-1595434931057-dreamtime.jpg (does not exist)
+02:23:15 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN3-1595434931113-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:23:15 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:23:15 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #3
+02:23:15 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #4
+02:23:37 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN4-1595434931140-dreamtime.jpg (does not exist)
+02:23:37 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN4-1595434931130-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:23:37 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:23:37 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #4
+02:23:38 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #5
+02:24:01 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN5-1595434931106-dreamtime.jpg (does not exist)
+02:24:01 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN5-1595434931144-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:24:01 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:24:01 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #5
+02:24:01 [DEBUG] LgKja-lfONo.jpg: 🏁 Runs finished. 🏁
+02:24:01 [DEBUG] dreamtrack: Event: DREAM_END
+02:24:01 [DEBUG] queue: 🏁 Photo finished: LgKja-lfONo.jpg
+02:27:14 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:27:14 [DEBUG] file: Downloading https://sun9-8.userapi.com/c854016/v854016540/d6b41/LgKja-lfONo.jpg
+02:27:15 [DEBUG] file: Opened: /tmp/LgKja-lfONo.jpg (0a472c62408f4fbb4cfb153a85e0b33c)
+02:27:15 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-editor.jpg (does not exist)
+02:27:15 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-crop.jpg (does not exist)
+02:31:48 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:31:49 [DEBUG] file: Downloading https://sun9-8.userapi.com/c854016/v854016540/d6b41/LgKja-lfONo.jpg
+02:31:50 [DEBUG] file: Opened: /tmp/LgKja-lfONo.jpg (0a472c62408f4fbb4cfb153a85e0b33c)
+02:31:50 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-editor.jpg (does not exist)
+02:31:50 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-crop.jpg (does not exist)
+02:32:06 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:32:07 [DEBUG] file: Downloading https://sun9-8.userapi.com/c854016/v854016540/d6b41/LgKja-lfONo.jpg
+02:32:08 [DEBUG] file: Opened: /tmp/LgKja-lfONo.jpg (0a472c62408f4fbb4cfb153a85e0b33c)
+02:32:08 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-editor.jpg (does not exist)
+02:32:08 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-crop.jpg (does not exist)
+02:32:19 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:32:19 [DEBUG] file: Downloading https://sun9-8.userapi.com/c854016/v854016540/d6b41/LgKja-lfONo.jpg
+02:32:20 [DEBUG] file: Opened: /tmp/LgKja-lfONo.jpg (0a472c62408f4fbb4cfb153a85e0b33c)
+02:32:20 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-editor.jpg (does not exist)
+02:32:20 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-crop.jpg (does not exist)
+02:32:45 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:32:45 [DEBUG] file: Downloading https://sun9-8.userapi.com/c854016/v854016540/d6b41/LgKja-lfONo.jpg
+02:32:46 [DEBUG] file: Opened: /tmp/LgKja-lfONo.jpg (0a472c62408f4fbb4cfb153a85e0b33c)
+02:32:46 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-editor.jpg (does not exist)
+02:32:46 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-crop.jpg (does not exist)
+02:32:56 [DEBUG] queue: 📷 Photo added: LgKja-lfONo.jpg
+02:32:56 [DEBUG] queue: 🚗 Photo started: LgKja-lfONo.jpg
+02:32:56 [DEBUG] dreamtrack: Event: DREAM_START
+02:32:56 [DEBUG] dreamtrack: Event: DREAM_IMPORT_MASKFIN
+02:32:56 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:32:56 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+02:32:56 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #1
+02:32:56 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #2
+02:32:56 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #3
+02:32:56 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #4
+02:32:56 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #5
+02:32:56 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595435576579-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595435576555-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN2-1595435576601-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN2-1595435576568-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN3-1595435576597-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN3-1595435576586-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN4-1595435576612-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN4-1595435576576-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN5-1595435576531-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN5-1595435576524-dreamtime.jpg (does not exist)
+02:32:56 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #1
+02:33:11 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595435576555-dreamtime.jpg (does not exist)
+02:33:11 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595435576579-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:33:11 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:33:11 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #1
+02:33:11 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #2
+02:33:31 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN2-1595435576568-dreamtime.jpg (does not exist)
+02:33:31 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN2-1595435576601-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:33:31 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:33:31 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #2
+02:33:32 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #3
+02:33:52 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN3-1595435576586-dreamtime.jpg (does not exist)
+02:33:52 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN3-1595435576597-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:33:52 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:33:52 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #3
+02:33:52 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #4
+02:34:15 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN4-1595435576576-dreamtime.jpg (does not exist)
+02:34:15 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN4-1595435576612-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:34:15 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:34:15 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #4
+02:34:15 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #5
+02:34:37 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN5-1595435576524-dreamtime.jpg (does not exist)
+02:34:37 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN5-1595435576531-dreamtime.jpg (5da13c72917d604835cae4bf0edec0c8)
+02:34:37 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:34:37 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #5
+02:34:37 [DEBUG] LgKja-lfONo.jpg: 🏁 Runs finished. 🏁
+02:34:37 [DEBUG] dreamtrack: Event: DREAM_END
+02:34:37 [DEBUG] dreamtrack: Event: DREAM_END
+02:34:37 [DEBUG] queue: 🏁 Photo finished: LgKja-lfONo.jpg
+02:36:36 [DEBUG] dreamtrack: Event: CLICK_LINK
+02:36:58 [WARN]  dreamtime: Please enter a valid web address.
+02:37:23 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:37:23 [DEBUG] file: Downloading https://www.instagram.com/p/CBnYxLLAm9O/
+02:37:24 [DEBUG] file: Opened: /tmp/CBnYxLLAm9O (88af33d94f92c445aab4e95f1043c64a)
+02:37:24 [DEBUG] file: Opened: /tmp/88af33d94f92c445aab4e95f1043c64a-editor (does not exist)
+02:37:24 [DEBUG] file: Opened: /tmp/88af33d94f92c445aab4e95f1043c64a-crop (does not exist)
+02:37:24 [WARN]  dreamtime: Unable to download the photo, please verify that the address is correct and that you are connected to the Internet.
+02:37:24 [ERROR] dreamtime: Exception: LogEvent
+    at Cr.validate (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12479)
+    at Cr.setup (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12228)
+    at new Cr (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:11427)
+    at Object.add (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:15959)
+    at Object.addUrl (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:17050) {
+  name: 'LogEvent',
+  args: [
+    'Upload failed.',
+    'The file "/tmp/CBnYxLLAm9O" is not a valid photo. Only jpeg, png or gif.'
+  ]
+}
+02:37:57 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:37:57 [DEBUG] file: Downloading https://www.instagram.com/p/CCBHi1pANmL/
+02:37:59 [DEBUG] file: Opened: /tmp/CCBHi1pANmL (a07ba359cf1b78db92cd9c2fa7858fae)
+02:37:59 [DEBUG] file: Opened: /tmp/a07ba359cf1b78db92cd9c2fa7858fae-editor (does not exist)
+02:37:59 [DEBUG] file: Opened: /tmp/a07ba359cf1b78db92cd9c2fa7858fae-crop (does not exist)
+02:37:59 [WARN]  dreamtime: Unable to download the photo, please verify that the address is correct and that you are connected to the Internet.
+02:37:59 [ERROR] dreamtime: Exception: LogEvent
+    at Cr.validate (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12479)
+    at Cr.setup (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12228)
+    at new Cr (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:11427)
+    at Object.add (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:15959)
+    at Object.addUrl (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:17050) {
+  name: 'LogEvent',
+  args: [
+    'Upload failed.',
+    'The file "/tmp/CCBHi1pANmL" is not a valid photo. Only jpeg, png or gif.'
+  ]
+}
+02:38:06 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:38:06 [DEBUG] file: Downloading https://www.instagram.com/p/CCBHi1pANmL/
+02:38:07 [DEBUG] file: Opened: /tmp/CCBHi1pANmL (bd43d667bf69f6ce308bf1b5bfdd8822)
+02:38:07 [DEBUG] file: Opened: /tmp/bd43d667bf69f6ce308bf1b5bfdd8822-editor (does not exist)
+02:38:07 [DEBUG] file: Opened: /tmp/bd43d667bf69f6ce308bf1b5bfdd8822-crop (does not exist)
+02:38:07 [WARN]  dreamtime: Unable to download the photo, please verify that the address is correct and that you are connected to the Internet.
+02:38:07 [ERROR] dreamtime: Exception: LogEvent
+    at Cr.validate (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12479)
+    at Cr.setup (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12228)
+    at new Cr (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:11427)
+    at Object.add (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:15959)
+    at Object.addUrl (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:17050) {
+  name: 'LogEvent',
+  args: [
+    'Upload failed.',
+    'The file "/tmp/CCBHi1pANmL" is not a valid photo. Only jpeg, png or gif.'
+  ]
+}
+02:38:53 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:38:54 [DEBUG] file: Downloading https://www.instagram.com/p/CCBHi1pANmL/
+02:38:55 [DEBUG] file: Opened: /tmp/CCBHi1pANmL (a418a37cadd713daccf03a4544d9048d)
+02:38:55 [DEBUG] file: Opened: /tmp/a418a37cadd713daccf03a4544d9048d-editor (does not exist)
+02:38:55 [DEBUG] file: Opened: /tmp/a418a37cadd713daccf03a4544d9048d-crop (does not exist)
+02:38:55 [WARN]  dreamtime: Unable to download the photo, please verify that the address is correct and that you are connected to the Internet.
+02:38:55 [ERROR] dreamtime: Exception: LogEvent
+    at Cr.validate (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12479)
+    at Cr.setup (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:12228)
+    at new Cr (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:11427)
+    at Object.add (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:15959)
+    at Object.addUrl (file:///home/d351d3r/dreamtime/resources/app.asar/dist/assets/app.3c784a9.js:1:17050) {
+  name: 'LogEvent',
+  args: [
+    'Upload failed.',
+    'The file "/tmp/CCBHi1pANmL" is not a valid photo. Only jpeg, png or gif.'
+  ]
+}
+02:39:10 [DEBUG] dreamtrack: Event: UPLOAD_INSTAGRAM
+02:39:10 [DEBUG] file: Downloading https://instagram.fuln9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/106557503_294692674990565_1698249332139387700_n.jpg?_nc_ht=instagram.fuln9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Srv0gNTgVFwAX96KwKh&oh=84997e3fee8288be6f018ca263559b9c&oe=5F40F06A
+02:39:11 [DEBUG] file: Opened: /tmp/106557503_294692674990565_1698249332139387700_n.jpg (4eb6038c4cd8b3edb70f2939cc508b79)
+02:39:11 [DEBUG] file: Opened: /tmp/4eb6038c4cd8b3edb70f2939cc508b79-editor.jpg (does not exist)
+02:39:11 [DEBUG] file: Opened: /tmp/4eb6038c4cd8b3edb70f2939cc508b79-crop.jpg (does not exist)
+02:39:48 [INFO]  setup: Lift off!
+02:39:48 [INFO]  dreamtrack: Connecting to wss://track.dreamnet.tech...
+02:39:49 [INFO]  dreamtrack: Connected to the server.
+02:39:50 [DEBUG] dreamtrack: Remote settings received.
+02:39:51 [INFO]  requirements: {
+  power: { installed: true, compatible: true, checkpoints: true },
+  windows: { media: true },
+  recommended: { ram: true, vram: false }
+}
+02:39:51 [INFO]  setup: The front-end is ready!
+02:39:51 [INFO]  updater:checkpoints: Current: v0.0.1 - Latest: 0.0.1
+02:39:52 [INFO]  updater:dreamtime: Current: v1.4.6 - Latest: v1.4.6
+02:39:52 [INFO]  updater:dreampower: Current: v1.2.5 - Latest: v1.2.5
+02:40:01 [DEBUG] dreamtrack: Event: UPLOAD_INSTAGRAM
+02:40:02 [DEBUG] file: Downloading https://instagram.fuln9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/106557503_294692674990565_1698249332139387700_n.jpg?_nc_ht=instagram.fuln9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Srv0gNTgVFwAX96KwKh&oh=84997e3fee8288be6f018ca263559b9c&oe=5F40F06A
+02:40:02 [DEBUG] file: Opened: /tmp/106557503_294692674990565_1698249332139387700_n.jpg (4eb6038c4cd8b3edb70f2939cc508b79)
+02:40:02 [DEBUG] file: Opened: /tmp/4eb6038c4cd8b3edb70f2939cc508b79-editor.jpg (does not exist)
+02:40:02 [DEBUG] file: Opened: /tmp/4eb6038c4cd8b3edb70f2939cc508b79-crop.jpg (does not exist)
+02:40:34 [DEBUG] queue: 📷 Photo added: 106557503_294692674990565_1698249332139387700_n.jpg
+02:40:34 [DEBUG] queue: 🚗 Photo started: 106557503_294692674990565_1698249332139387700_n.jpg
+02:40:34 [DEBUG] dreamtrack: Event: DREAM_START
+02:40:34 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:40:34 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 📷 Run added: #1
+02:40:34 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN1-1595436034698-dreamtime.jpg (does not exist)
+02:40:34 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN1-1595436034768-dreamtime.jpg (does not exist)
+02:40:35 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🚗 Run started: #1
+02:40:53 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN1-1595436034768-dreamtime.jpg (does not exist)
+02:40:53 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN1-1595436034698-dreamtime.jpg (e729c42efdd735028dd368c8d78578ce)
+02:40:53 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:40:53 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Run finished: #1
+02:40:53 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Runs finished. 🏁
+02:40:53 [DEBUG] dreamtrack: Event: DREAM_END
+02:40:53 [DEBUG] queue: 🏁 Photo finished: 106557503_294692674990565_1698249332139387700_n.jpg
+02:41:25 [DEBUG] queue: 📷 Photo added: 106557503_294692674990565_1698249332139387700_n.jpg
+02:41:25 [DEBUG] queue: 🚗 Photo started: 106557503_294692674990565_1698249332139387700_n.jpg
+02:41:25 [DEBUG] dreamtrack: Event: DREAM_START
+02:41:25 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:41:25 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 📷 Run added: #1
+02:41:26 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN1-1595436086024-dreamtime.jpg (does not exist)
+02:41:26 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN1-1595436086036-dreamtime.jpg (does not exist)
+02:41:26 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🚗 Run started: #1
+02:41:45 [DEBUG] file: Opened: /tmp/maskfin-106557503-2946926749-RUN1-1595436086036-dreamtime.jpg (does not exist)
+02:41:45 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/106557503-2946926749-RUN1-1595436086024-dreamtime.jpg (e729c42efdd735028dd368c8d78578ce)
+02:41:45 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:41:45 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Run finished: #1
+02:41:45 [DEBUG] 106557503_294692674990565_1698249332139387700_n.jpg: 🏁 Runs finished. 🏁
+02:41:45 [DEBUG] dreamtrack: Event: DREAM_END
+02:41:45 [DEBUG] dreamtrack: Event: DREAM_END
+02:41:45 [DEBUG] queue: 🏁 Photo finished: 106557503_294692674990565_1698249332139387700_n.jpg
+02:43:14 [DEBUG] dreamtrack: Event: UPLOAD_URL
+02:43:15 [DEBUG] file: Downloading https://sun5-4.userapi.com/c854016/v854016540/d6b41/LgKja-lfONo.jpg
+02:43:16 [DEBUG] file: Opened: /tmp/LgKja-lfONo.jpg (0a472c62408f4fbb4cfb153a85e0b33c)
+02:43:16 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-editor.jpg (does not exist)
+02:43:16 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-crop.jpg (does not exist)
+02:43:18 [DEBUG] queue: 📷 Photo added: LgKja-lfONo.jpg
+02:43:18 [DEBUG] queue: 🚗 Photo started: LgKja-lfONo.jpg
+02:43:18 [DEBUG] dreamtrack: Event: DREAM_START
+02:43:18 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:43:18 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #1
+02:43:18 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595436198801-dreamtime.jpg (does not exist)
+02:43:18 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595436198858-dreamtime.jpg (does not exist)
+02:43:19 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #1
+02:43:40 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595436198858-dreamtime.jpg (does not exist)
+02:43:40 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595436198801-dreamtime.jpg (f12196fa7983c0cb208a78d27c9e7628)
+02:43:40 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:43:40 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #1
+02:43:40 [DEBUG] LgKja-lfONo.jpg: 🏁 Runs finished. 🏁
+02:43:40 [DEBUG] dreamtrack: Event: DREAM_END
+02:43:40 [DEBUG] queue: 🏁 Photo finished: LgKja-lfONo.jpg
+02:44:06 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #1
+02:44:06 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #1
+02:44:27 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595436198858-dreamtime.jpg (does not exist)
+02:44:27 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595436198801-dreamtime.jpg (79113260a29effe560ae456b867d7d4e)
+02:44:27 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:44:27 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #1
+02:44:27 [DEBUG] LgKja-lfONo.jpg: 🏁 Runs finished. 🏁
+02:44:27 [DEBUG] dreamtrack: Event: DREAM_END
+02:45:22 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #1
+02:45:22 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #1
+02:45:40 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595436198858-dreamtime.jpg (does not exist)
+02:45:40 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595436198801-dreamtime.jpg (b646c62e25a37e42731342f6acfcff6c)
+02:45:40 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:45:40 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #1
+02:45:40 [DEBUG] LgKja-lfONo.jpg: 🏁 Runs finished. 🏁
+02:45:40 [DEBUG] dreamtrack: Event: DREAM_END
+02:45:57 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #1
+02:45:57 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #1
+02:46:16 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595436198858-dreamtime.jpg (does not exist)
+02:46:16 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595436198801-dreamtime.jpg (2e4c5ac9e2d1d732916575d85857d009)
+02:46:16 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:46:16 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #1
+02:46:16 [DEBUG] LgKja-lfONo.jpg: 🏁 Runs finished. 🏁
+02:46:16 [DEBUG] dreamtrack: Event: DREAM_END
+02:47:19 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #1
+02:47:19 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #1
+02:47:36 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595436198858-dreamtime.jpg (does not exist)
+02:47:36 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595436198801-dreamtime.jpg (c25a569658fed220a5fa784911570b69)
+02:47:36 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:47:36 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #1
+02:47:36 [DEBUG] LgKja-lfONo.jpg: 🏁 Runs finished. 🏁
+02:47:36 [DEBUG] dreamtrack: Event: DREAM_END
+02:49:07 [DEBUG] queue: 📷 Photo added: LgKja-lfONo.jpg
+02:49:07 [DEBUG] queue: 🚗 Photo started: LgKja-lfONo.jpg
+02:49:07 [DEBUG] file: Opened: /tmp/0a472c62408f4fbb4cfb153a85e0b33c-editor.jpg (c0a49475005938db75d5493b4dd68759)
+02:49:07 [DEBUG] LgKja-lfONo.jpg: Saved editor changes.
+02:49:07 [DEBUG] dreamtrack: Event: DREAM_START
+02:49:07 [DEBUG] dreamtrack: Event: DREAM_EXPORT_MASKFIN
+02:49:07 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+02:49:07 [DEBUG] dreamtrack: Event: DREAM_RANDOMIZE
+02:49:07 [DEBUG] LgKja-lfONo.jpg: 📷 Run added: #1
+02:49:07 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595436547547-dreamtime.jpg (does not exist)
+02:49:07 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595436547601-dreamtime.jpg (does not exist)
+02:49:07 [DEBUG] LgKja-lfONo.jpg: 🚗 Run started: #1
+02:49:24 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/lg-kja-lf-o-no-RUN1-1595436547547-dreamtime.jpg (65a3618ba35c240e1aadb20721892cc0)
+02:49:24 [DEBUG] file: Opened: /tmp/maskfin-lg-kja-lf-o-no-RUN1-1595436547601-dreamtime.jpg (a1c8cd94ac1b1e5335628814e478dbb9)
+02:49:24 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+02:49:24 [DEBUG] LgKja-lfONo.jpg: 🏁 Run finished: #1
+02:49:24 [DEBUG] LgKja-lfONo.jpg: 🏁 Runs finished. 🏁
+02:49:24 [DEBUG] dreamtrack: Event: DREAM_END
+02:49:24 [DEBUG] dreamtrack: Event: DREAM_END
+02:49:24 [DEBUG] queue: 🏁 Photo finished: LgKja-lfONo.jpg

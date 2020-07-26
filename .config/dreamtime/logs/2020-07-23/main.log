@@ -1,0 +1,117 @@
+10:41:31 [INFO]  electron: Booting...
+10:41:31 [DEBUG] electron: Enviroment: production
+10:41:31 [DEBUG] electron: Portable: Yes
+10:41:31 [DEBUG] electron: App Path: /home/d351d3r/dreamtime/resources/app.asar
+10:41:31 [DEBUG] electron: Exe Path: /home/d351d3r/dreamtime/dreamtime
+10:41:31 [DEBUG] settings: Settings loaded!
+10:41:31 [INFO]  electron: Starting...
+10:41:31 [DEBUG] system: Collecting system information...
+10:41:31 [INFO]  electron: Creating window...
+10:41:31 [INFO]  system: GPU: []
+10:41:31 [INFO]  system: RAM: 16629116928 bytes.
+10:41:31 [INFO]  system: Online: true
+10:41:34 [DEBUG] power: Running: [ '--version', '--debug' ]
+10:41:35 [DEBUG] power: Running: [ '--version', '--debug' ]
+10:42:18 [DEBUG] power: Running: [
+  'run',
+  '--input',
+  '/tmp/3kmzzRh2T2E.jpg',
+  '--output',
+  '/home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595464938080-dreamtime.jpg',
+  '--cpu',
+  '--n-cores',
+  '4',
+  '--auto-rescale',
+  '--color-transfer',
+  '--bsize',
+  1,
+  '--asize',
+  1,
+  '--nsize',
+  1,
+  '--vsize',
+  0.75,
+  '--hsize',
+  1,
+  '--debug'
+]
+10:42:18 [WARN]  power: stderr: [DEBUG] /home/d351d3r/dreamtime/AppData/dreampower/checkpoints
+
+10:42:18 [WARN]  power: stderr: [DEBUG] {'correct_to_mask': '/home/d351d3r/dreamtime/AppData/dreampower/checkpoints/cm.lib', 'maskref_to_maskdet': '/home/d351d3r/dreamtime/AppData/dreampower/checkpoints/mm.lib', 'maskfin_to_nude': '/home/d351d3r/dreamtime/AppData/dreampower/checkpoints/mn.lib', 'checkpoints_path': '/home/d351d3r/dreamtime/AppData/dreampower/checkpoints'}
+
+10:42:18 [WARN]  power: stderr: [DEBUG] Namespace(altered=None, asize=1.0, auto_rescale=True, auto_resize=False, auto_resize_crop=False, bsize=1.0, checkpoints={'correct_to_mask': '/home/d351d3r/dreamtime/AppData/dreampower/checkpoints/cm.lib', 'maskref_to_maskdet': '/home/d351d3r/dreamtime/AppData/dreampower/checkpoints/mm.lib', 'maskfin_to_nude': '/home/d351d3r/dreamtime/AppData/dreampower/checkpoints/mn.lib', 'checkpoints_path': '/home/d351d3r/dreamtime/AppData/dreampower/checkpoints'}, color_transfer=True, cpu=True, debug=True, disable_persistent_gan=False, export_step=None, export_step_path=None, func=<function main at 0x7f4f85a53290>, gpu=None, gpu_ids=None, hsize=1.0, ignore_size=False, input='/tmp/3kmzzRh2T2E.jpg', json_args=None, json_folder_name='settings.json', mode='run', n_cores=4, n_runs=1, nsize=1.0, output='/home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595464938080-dreamtime.jpg', overlay=None, prefs={'titsize': 1.0, 'aursize': 1.0, 'nipsize': 1.0, 'vagsize': 0.75, 'hairsize': 1.0}, steps=None, vsize=0.75)
+[INFO] Welcome to DreamPower
+[INFO] GAN Processing Will Use CPU
+
+10:42:18 [WARN]  power: stderr: [DEBUG] Process to execute : <processing.image.ImageProcessing object at 0x7f4f85977650>
+
+10:42:18 [WARN]  power: stderr: [INFO] Executing Image Processing
+[DEBUG] All Phases : [<class 'transform.opencv.resize.ImageToRescale'>, <class 'transform.opencv.correct.DressToCorrect'>, <class 'transform.gan.mask.CorrectToMask'>, <class 'transform.opencv.mask.MaskToMaskref'>, <class 'transform.gan.mask.MaskrefToMaskdet'>, <class 'transform.opencv.mask.MaskdetToMaskfin'>, <class 'transform.gan.mask.MaskfinToNude'>, <class 'transform.opencv.correct.ColorTransfer'>]
+[DEBUG] To Be Executed Phases : [<class 'transform.opencv.resize.ImageToRescale'>, <class 'transform.opencv.correct.DressToCorrect'>, <class 'transform.gan.mask.CorrectToMask'>, <class 'transform.opencv.mask.MaskToMaskref'>, <class 'transform.gan.mask.MaskrefToMaskdet'>, <class 'transform.opencv.mask.MaskdetToMaskfin'>, <class 'transform.gan.mask.MaskfinToNude'>, <class 'transform.opencv.correct.ColorTransfer'>]
+[INFO] Processing on ['/tmp/3kmzzRh2T2E.jpg']
+
+10:42:18 [WARN]  power: stderr: [DEBUG] wk []
+[INFO] Executing Image To Rescale
+
+10:42:18 [WARN]  power: stderr: [DEBUG] Image To Rescale Done in 0.0 seconds
+
+10:42:18 [WARN]  power: stderr: [DEBUG] wk []
+[INFO] Executing Dress To Correct
+
+10:42:18 [WARN]  power: stderr: [DEBUG] Dress To Correct Done in 0.02 seconds
+[DEBUG] wk []
+
+10:42:18 [WARN]  power: stderr: [DEBUG] Loading Model Start
+[INFO] Loading GAN Model For correct_to_mask
+
+10:42:21 [WARN]  power: stderr: [DEBUG] Model load done in 2.99 seconds
+
+10:42:21 [WARN]  power: stderr: [INFO] Executing Correct To Mask
+[DEBUG] GAN Processing will use CPU
+
+10:42:24 [WARN]  power: stderr: [DEBUG] Correct To Mask Done in 2.7 seconds
+[DEBUG] wk []
+[INFO] Executing Mask To Maskref
+[DEBUG] Mask To Maskref Done in 0.0 seconds
+[DEBUG] wk []
+[DEBUG] Loading Model Start
+[INFO] Loading GAN Model For maskref_to_maskdet
+
+10:42:27 [WARN]  power: stderr: [DEBUG] Model load done in 2.98 seconds
+
+10:42:27 [WARN]  power: stderr: [INFO] Executing Maskref To Maskdet
+[DEBUG] GAN Processing will use CPU
+
+10:42:29 [WARN]  power: stderr: [DEBUG] Maskref To Maskdet Done in 2.34 seconds
+
+10:42:29 [WARN]  power: stderr: [DEBUG] wk []
+[INFO] Executing Maskdet To Maskfin
+
+10:42:29 [WARN]  power: stderr: [DEBUG] Maskdet To Maskfin Done in 0.03 seconds
+[DEBUG] wk []
+
+10:42:29 [WARN]  power: stderr: [DEBUG] Loading Model Start
+[INFO] Loading GAN Model For maskfin_to_nude
+
+10:42:33 [WARN]  power: stderr: [DEBUG] Model load done in 3.49 seconds
+
+10:42:33 [WARN]  power: stderr: [INFO] Executing Maskfin To Nude
+[DEBUG] GAN Processing will use CPU
+
+10:42:37 [WARN]  power: stderr: [DEBUG] Maskfin To Nude Done in 3.63 seconds
+
+10:42:37 [WARN]  power: stderr: [DEBUG] wk []
+[INFO] Executing Color Transfer
+
+10:42:37 [WARN]  power: stderr: [DEBUG] Color Transfer Done in 0.17 seconds
+
+10:42:37 [WARN]  power: stderr: [INFO] /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595464938080-dreamtime.jpg Created
+[DEBUG] /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595464938080-dreamtime.jpg Result Image Of Image Processing Execution
+
+10:42:37 [WARN]  power: stderr: [DEBUG] Image Processing Done in 18.36 seconds
+[INFO] Done! We have taken 18.36 seconds
+
+10:42:37 [INFO]  power: DreamPower exited with code 0
+11:00:46 [DEBUG] electron: Received exit event.
+11:00:46 [DEBUG] electron: Shutting down services...
+11:00:46 [DEBUG] electron: Bye!

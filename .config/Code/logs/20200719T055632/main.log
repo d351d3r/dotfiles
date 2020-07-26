@@ -1,0 +1,5 @@
+[2020-07-19 05:56:32.796] [main] [error] [uncaught exception in main]: Unable to retrieve mac address (Error: Command failed: /sbin/ifconfig -a || /sbin/ip link
+/bin/sh: /sbin/ifconfig: Нет такого файла или каталога
+/bin/sh: /sbin/ip: Нет такого файла или каталога
+)
+[2020-07-19 05:56:32.950] [main] [info] update#setState idle

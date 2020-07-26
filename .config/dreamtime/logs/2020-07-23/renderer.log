@@ -1,0 +1,33 @@
+10:41:32 [INFO]  setup: Lift off!
+10:41:32 [INFO]  dreamtrack: Connecting to wss://track.dreamnet.tech...
+10:41:33 [INFO]  dreamtrack: Connected to the server.
+10:41:34 [DEBUG] dreamtrack: Remote settings received.
+10:41:35 [INFO]  requirements: {
+  power: { installed: true, compatible: true, checkpoints: true },
+  windows: { media: true },
+  recommended: { ram: true, vram: false }
+}
+10:41:35 [INFO]  setup: The front-end is ready!
+10:41:36 [INFO]  updater:checkpoints: Current: v0.0.1 - Latest: 0.0.1
+10:41:36 [INFO]  updater:dreamtime: Current: v1.4.6 - Latest: v1.4.6
+10:41:36 [INFO]  updater:dreampower: Current: v1.2.5 - Latest: v1.2.5
+10:42:14 [DEBUG] dreamtrack: Event: UPLOAD_URL
+10:42:15 [DEBUG] file: Downloading https://sun5-4.userapi.com/c855720/v855720289/17d74f/3kmzzRh2T2E.jpg
+10:42:15 [DEBUG] file: Opened: /tmp/3kmzzRh2T2E.jpg (5339d21f50d3d96055296c94cb84fdf3)
+10:42:15 [DEBUG] file: Opened: /tmp/5339d21f50d3d96055296c94cb84fdf3-editor.jpg (does not exist)
+10:42:15 [DEBUG] file: Opened: /tmp/5339d21f50d3d96055296c94cb84fdf3-crop.jpg (does not exist)
+10:42:17 [DEBUG] queue: 📷 Photo added: 3kmzzRh2T2E.jpg
+10:42:18 [DEBUG] queue: 🚗 Photo started: 3kmzzRh2T2E.jpg
+10:42:18 [DEBUG] dreamtrack: Event: DREAM_START
+10:42:18 [DEBUG] dreamtrack: Event: DREAM_COLOR_TRANSFER
+10:42:18 [DEBUG] 3kmzzRh2T2E.jpg: 📷 Run added: #1
+10:42:18 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595464938080-dreamtime.jpg (does not exist)
+10:42:18 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595464938099-dreamtime.jpg (does not exist)
+10:42:18 [DEBUG] 3kmzzRh2T2E.jpg: 🚗 Run started: #1
+10:42:37 [DEBUG] file: Opened: /tmp/maskfin-3-kmzz-rh-2-t-2-e-RUN1-1595464938099-dreamtime.jpg (does not exist)
+10:42:37 [DEBUG] file: Opened: /home/d351d3r/dreamtime/AppData/Pictures/Uncategorized/3-kmzz-rh-2-t-2-e-RUN1-1595464938080-dreamtime.jpg (afd04363b2da486affa387fabab34592)
+10:42:37 [DEBUG] dreamtrack: Event: DREAM_COMPLETED
+10:42:37 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Run finished: #1
+10:42:37 [DEBUG] 3kmzzRh2T2E.jpg: 🏁 Runs finished. 🏁
+10:42:37 [DEBUG] dreamtrack: Event: DREAM_END
+10:42:37 [DEBUG] queue: 🏁 Photo finished: 3kmzzRh2T2E.jpg
